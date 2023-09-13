@@ -1,0 +1,11 @@
+{
+    "manifest_version": 2,
+    "version": "0.0.1",
+    "name": "Borba Extesion",
+    "description": "Extensão para Google Chromme",
+    "browser_action": {
+        "default_title": "Borba Extenção",
+        "default_popup": "index.html"
+    }
+
+}
